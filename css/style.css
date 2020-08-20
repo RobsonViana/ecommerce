@@ -3,5 +3,11 @@
 body {
 	font : 14px Arial,sans-serif;
 	color: blue;
-t	ext-weight: bold;
+	text-weight: bold;
+}
+.main {
+	
+	display: flex;
+	height : 100%;
+	width : 100%;
 }
